@@ -1,3 +1,5 @@
 name of the restaurant: Cinthya's Restaurant
 types of menus: meat, vegetarian, meat
 drinks: white wine, red wine, beer, water, limonade, soda
+
+Si lees esto, funciona Cinthya felicidades!
